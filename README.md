@@ -5,6 +5,8 @@
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=caoergou" />
 </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caoergou&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 🌱 I’m currently learning **Java, Spring Boot and Spark Core**
 
