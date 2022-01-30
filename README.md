@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Eric Cao</h1>
-<h3 align="center">A passionate big data developer from China</h3>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caoergou)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caoergou&label=Profile%20views&color=0e75b6&style=flat" alt="caoergou" /> </p>
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=caoergou" />
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caoergou&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🌱 I’m currently learning **Java, Spring Boot and Spark Core**
