@@ -74,15 +74,10 @@
 
 <div align="center">
 
-```
-┌─────────────────────────────────────┐
-```
 
 <img src="https://streak-stats.demolab.com?user=caoergou&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&fire=FB8C00&ring=58A6FF" alt="Streak Stats" />
 
-```
-└─────────────────────────────────────┘
-```
+
 
 </div>
 
