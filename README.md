@@ -85,14 +85,13 @@
 
 <div align="center">
 
-```
 ╭───────────────────────────────────────╮
 │                                       │
 │   🎮 Game On. Keep Building.          │
 │                                       │
 ╰───────────────────────────────────────╯
-```
+
+</div>
 
 ![Visitor](https://komarev.com/ghpvc/?username=caoergou&style=flat-square&color=58A6FF)
 
-</div>
