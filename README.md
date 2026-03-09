@@ -9,14 +9,16 @@
 [![Email](https://img.shields.io/badge/📧-itsericsmail@gmail.com-blue?style=flat-square)](mailto:itsericsmail@gmail.com)
 [![GitHub](https://img.shields.io/badge/🎮-caoergou-black?style=flat-square)](https://github.com/caoergou)
 [![即刻](https://img.shields.io/badge/💬-jike.city/ergou-yellow?style=flat-square)](https://jike.city/ergou)
+![Visitor](https://komarev.com/ghpvc/?username=caoergou&style=flat-square&color=58A6FF)
 
 </div>
 
 ---
 
-## 🎯 Current Quest · 主线任务
 
 ```
+## 🎯 Current Quest · 主线任务
+
 ┌───────────────────────────────────────────────────────┐
 │  QUEST: AI-Powered Development                        │
 │                                                       │
@@ -26,15 +28,9 @@
 │  Not chasing trends—building solutions that work.    │
 │  不追热点，只做真正解决问题的东西。                    │
 └───────────────────────────────────────────────────────┘
-```
-
----
-
----
 
 ## 💭 NPC Says · 提示
 
-```
 ╔═══════════════════════════════════════════════════════╗
 ║  "The best code is the code you don't have to write." ║
 ║   最好的代码是不用写的代码。                           ║
@@ -45,13 +41,9 @@
 ║  "Build for users, not for stars."                    ║
 ║   为用户构建，不为点赞构建。                           ║
 ╚═══════════════════════════════════════════════════════╝
-```
-
----
 
 ## 🗺️ World Map · 探索地图
 
-```
 ┌─────────────────────────────────────────────────────────┐
 │  🏰 AI Agent Lands          │  ⚡ Performance Dungeon   │
 │  ─────────────────────      │  ─────────────────────    │
@@ -63,10 +55,19 @@
 │  Pipeline & ETL practice    │  Eliminate repetitive     │
 │  链路实践                    │  消灭重复劳动              │
 └─────────────────────────────────────────────────────────┘
+
+
+╭───────────────────────────────────────╮
+│                                       │
+│   🎮 Game On. Keep Building.          │
+│                                       │
+╰───────────────────────────────────────╯
+
 ```
 
 📍 **Now at:** AI Agent Lands — Building reliable agents for real workflows.
 📍 **当前位置：** AI Agent 领地 — 为真实工作流构建可靠的 Agent。
+
 
 ---
 
@@ -80,18 +81,4 @@
 
 
 </div>
-
----
-
-
-```
-╭───────────────────────────────────────╮
-│                                       │
-│   🎮 Game On. Keep Building.          │
-│                                       │
-╰───────────────────────────────────────╯
-
-```
-
-![Visitor](https://komarev.com/ghpvc/?username=caoergou&style=flat-square&color=58A6FF)
 
