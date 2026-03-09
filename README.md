@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Press%20Start%202P&size=14&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=420&height=40&lines=Player+One+Ready" alt="Typing SVG" />
 
-- **AI 浪潮中的冒险者 · 问题解决者 · 全栈玩家** / **AI wave's adventurer·problem solver·all-in-one player**
+**AI 浪潮中的冒险者 · 问题解决者 · 全栈玩家** / **AI wave's adventurer·problem solver·all-in-one player**
 
 [![Email](https://img.shields.io/badge/📧-itsericsmail@gmail.com-blue?style=flat-square)](mailto:itsericsmail@gmail.com)
 [![GitHub](https://img.shields.io/badge/🎮-caoergou-black?style=flat-square)](https://github.com/caoergou)
